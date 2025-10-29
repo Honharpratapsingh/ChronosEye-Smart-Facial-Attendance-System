@@ -1,0 +1,21 @@
+/target/
+# --- Add the following lines ---
+
+# 1. Compiled Code
+*.class
+*.jar
+
+# 2. IDE Files (Eclipse/NetBeans/IntelliJ/Other)
+.classpath
+.project
+.settings/
+build.fxbuild
+compiler.xml
+jarRepositories.xml
+misc.xml
+workspace.xml
+
+# 3. Log and Temporary Files
+*.log
+createdFiles.lst
+inputFiles.lst
